@@ -24,7 +24,7 @@ This project presents a deep learning framework for multiclass brain tumor class
 ## Dataset
 
 **Source**
-
+https://drive.google.com/file/d/1OPUSnue5Kj0jjgOnSmE4Cbzu9jYztZJG/view?usp=drive_link
 
 
 ### Classes
@@ -100,37 +100,6 @@ The DenseNet121 model achieved excellent classification performance on the four-
 
 ---
 
-## Repository Structure
-
-```
-Brain-Tumor-Classification-DenseNet121
-│
-├── README.md
-├── densenet.ipynb
-├── requirements.txt
-├── .gitignore
-│
-├── images/
-│   ├── architecture.png
-│   ├── accuracy_curve.png
-│   ├── loss_curve.png
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   └── gradcam.png
-│
-└── model/
-    └── best_model.keras
-```
-
----
-
-## Installation
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## Usage
 
